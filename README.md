@@ -1,5 +1,3 @@
-# bi_class_cores
-
 The following files represent:
 
 binary_classifier2.pth - model for binary classification of nuclei on the basis of photo quality
